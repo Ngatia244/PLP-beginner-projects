@@ -1,0 +1,1 @@
+This is a beginner-friendly HTML file I created to practice basic web development skills. It includes the basic structure of a web page using HTML5. The file contains common elements such as a heading, paragraph, image, and a few simple tags like 'section' and 'meta'. It's a great starting point for anyone learning how to build websites from scratch.
